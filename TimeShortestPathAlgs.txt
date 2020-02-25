@@ -1,0 +1,20 @@
+Algorithm       Vertices    Edges         Time
+------------  ----------  -------  -----------
+Bellman Ford          16      240  0.000228978
+Dijkstra              16      240  0.000266303
+Bellman Ford          64     4032  0.00531185
+Dijkstra              64     4032  0.00297093
+Bellman Ford         256    65280  0.0949168
+Dijkstra             256    65280  0.0511983
+Bellman Ford          16       60  8.40895e-05
+Dijkstra              16       60  0.000153612
+Bellman Ford          64      672  0.000587964
+Dijkstra              64      672  0.000837183
+Bellman Ford         256     8160  0.00569854
+Dijkstra             256     8160  0.00727194
+Bellman Ford          16       32  0.000102471
+Dijkstra              16       32  0.000129117
+Bellman Ford          64      128  0.000205502
+Dijkstra              64      128  0.0004565
+Bellman Ford         256      512  0.000739499
+Dijkstra             256      512  0.0018232
