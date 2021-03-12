@@ -1,2 +1,2 @@
 # Data-Structures-Assignments
-Projects/assignments from Data Structures/Algorithms 1
+Projects/assignments from Data Structures/Algorithms 
